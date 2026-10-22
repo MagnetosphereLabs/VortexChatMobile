@@ -1,8 +1,8 @@
 [submodule "dart_sdk"]
 	path = dart_sdk
-	url = https://github.com/fluxerapp/dart_sdk.git
-	branch = main
+	url = https://github.com/MagnetosphereLabs/VortexChatDartSDK.git
+	branch = vortex/integration-20261022
 [submodule "fluxer"]
 	path = fluxer
-	url = https://github.com/fluxerapp/fluxer.git
+	url = https://github.com/MagnetosphereLabs/VortexChat.git
 	shallow = true
